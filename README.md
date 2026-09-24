@@ -74,10 +74,8 @@ Create `.env.local`:
 
 ```env
 NEXT_PUBLIC_SITE_URL=https://anupambuilds.store
-GITHUB_USERNAME=tech-anupam
-MODRINTH_USERNAME=tech.anupam
-INDEXNOW_KEY=2be50a4dc84a4008a25f4136cf27dad1
-WEB3FORMS_ACCESS_KEY=678b868e-405c-4d61-bca5-4aeb4b81808b
+GITHUB_USERNAME=your-username
+MODRINTH_USERNAME=your-username
 # Optional: Higher GitHub API rate limits
 GITHUB_TOKEN=
 ```
@@ -104,11 +102,9 @@ pnpm build
 
 1. Click **Deploy with Vercel** above.
 2. In Project Settings, configure environment variables:
-   - `NEXT_PUBLIC_SITE_URL`: `https://anupambuilds.store`
-   - `GITHUB_USERNAME`: `tech-anupam`
-   - `MODRINTH_USERNAME`: `tech.anupam`
-   - `INDEXNOW_KEY`: `2be50a4dc84a4008a25f4136cf27dad1`
-   - `WEB3FORMS_ACCESS_KEY`: `678b868e-405c-4d61-bca5-4aeb4b81808b`
+   - `NEXT_PUBLIC_SITE_URL`: Your production domain
+   - `GITHUB_USERNAME`: Your GitHub username
+   - `MODRINTH_USERNAME`: Your Modrinth username
 3. Click **Deploy**.
 
 ---
