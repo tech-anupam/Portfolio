@@ -79,7 +79,7 @@ export function NavbarDog() {
 
     timer = setTimeout(patrol, 1200);
     return () => clearTimeout(timer);
-  }, []);
+  }, [isMobile]);
 
   const handleDogClick = () => {
     isInteracting.current = true;

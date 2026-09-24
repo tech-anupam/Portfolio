@@ -26,7 +26,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://anupambuilds.com'),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://anupambuilds.store'),
   title: {
     default: 'Anupam Jha | Software Engineer',
     template: '%s | Anupam Jha',

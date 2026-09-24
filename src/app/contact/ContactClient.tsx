@@ -107,7 +107,7 @@ export default function ContactClient() {
               </div>
               <h2 className="text-xl font-bold mb-2 text-[#F0F3F8] font-display">Message Sent</h2>
               <p className="text-sm text-[#9AA4B2] mb-6">
-                Thanks for reaching out! I'll get back to you as soon as possible.
+                Thanks for reaching out! I&apos;ll get back to you as soon as possible.
               </p>
               <button
                 onClick={() => setSubmitted(false)}

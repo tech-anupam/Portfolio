@@ -31,7 +31,7 @@ export default async function Image() {
             }}
           />
           <span style={{ color: "#5EEAA0", fontSize: 20, letterSpacing: "0.05em", fontFamily: "monospace" }}>
-            anupambuilds.com
+            anupambuilds.store
           </span>
         </div>
 

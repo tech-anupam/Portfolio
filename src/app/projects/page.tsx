@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Projects by Anupam Jha',
     description: 'Web apps, Android software, Minecraft mods, and open source systems.',
-    url: 'https://anupambuilds.com/projects',
+    url: 'https://anupambuilds.store/projects',
     images: ['/profile.png'],
   },
 };

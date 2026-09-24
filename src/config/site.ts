@@ -4,7 +4,7 @@ export const siteConfig = {
   title: "Anupam Jha | Software Engineer",
   description:
     "18-year-old developer from New Delhi building web platforms, AI systems, Minecraft mods, and community tools.",
-  url: "https://anupambuilds.com",
+  url: "https://anupambuilds.store",
   location: "New Delhi, India",
   github: {
     username: "tech-anupam",
