@@ -308,7 +308,7 @@ export function NavKatana() {
       aria-hidden="true"
     >
       <div className="nav-katana-swing">
-        <div className="w-[32px] h-[135px] -ml-[16px] drop-shadow-[0_4px_12px_rgba(0,0,0,0.7)] group-hover:scale-105 transition-transform">
+        <div className="w-[22px] h-[96px] -ml-[11px] sm:w-[26px] sm:h-[114px] sm:-ml-[13px] md:w-[32px] md:h-[135px] md:-ml-[16px] drop-shadow-[0_4px_12px_rgba(0,0,0,0.7)] group-hover:scale-105 transition-transform">
           <VerticalHangingSword />
         </div>
       </div>

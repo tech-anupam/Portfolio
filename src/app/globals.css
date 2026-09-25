@@ -171,7 +171,10 @@
 
 @media (max-width: 768px) {
   .nav-katana {
-    display: none;
+    right: 10px;
+    width: 24px;
+    height: 110px;
+    z-index: 25;
   }
   .nav-dog-container {
     display: none !important;
