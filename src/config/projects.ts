@@ -14,6 +14,61 @@ export interface FeaturedProject {
 
 export const featuredProjects: FeaturedProject[] = [
   {
+    slug: "outback-movers",
+    title: "Outback Movers",
+    description:
+      "Professional removalist website for a Western Australian moving and relocation business, built for local enquiries and service discovery.",
+    longDescription:
+      "A conversion-focused website for Outback Movers featuring clear moving services, service-area information, trust-building content, and prominent enquiry calls-to-action.",
+    stack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Local Business", "SEO"],
+    liveUrl: "https://outbackmovers.com",
+    featured: true,
+  },
+  {
+    slug: "openshare",
+    title: "OpenShare",
+    description:
+      "An end-to-end encrypted file sharing platform with password protection for secure, private file transfers.",
+    longDescription:
+      "A privacy-first file sharing application designed for secure transfers, combining end-to-end encryption, password-protected access, and a fast, accessible sharing workflow.",
+    stack: ["Next.js", "React", "TypeScript", "Encryption", "Password Protection", "Vercel"],
+    liveUrl: "https://opensharee.vercel.app",
+    featured: true,
+  },
+  {
+    slug: "smartgs",
+    title: "SmartGS",
+    description:
+      "A modern school website built to present academics, admissions, announcements, and essential school information.",
+    longDescription:
+      "A polished school information and admissions website that gives students and parents quick access to campus details, academic programs, announcements, and contact resources.",
+    stack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Education", "Vercel"],
+    liveUrl: "https://smartgs.vercel.app",
+    featured: true,
+  },
+  {
+    slug: "asksomeone",
+    title: "AskSomeone",
+    description:
+      "An anonymous discussion forum where people can openly ask questions and discuss problems and issues.",
+    longDescription:
+      "A community discussion platform built around private, anonymous conversations. Users can share problems, ask for help, and participate in open discussions without revealing their identity.",
+    stack: ["Next.js", "React", "TypeScript", "Community", "Anonymous Auth", "Vercel"],
+    liveUrl: "https://asksomeone.space",
+    featured: true,
+  },
+  {
+    slug: "easyhooks-builder",
+    title: "EasyHooks Builder",
+    description:
+      "A focused web application for creating and managing hooks with a fast, builder-style workflow.",
+    longDescription:
+      "A streamlined hook-building tool that simplifies creating, configuring, and organizing hook-based automation through an approachable visual interface.",
+    stack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Automation", "Vercel"],
+    liveUrl: "https://easyhooks-builder.vercel.app",
+    featured: true,
+  },
+  {
     slug: "radhe-roop-shringar-ecommerce",
     title: "Radhe Roop Shringar",
     description:
