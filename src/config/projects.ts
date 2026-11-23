@@ -43,7 +43,6 @@ export const featuredProjects: FeaturedProject[] = [
     longDescription:
       "A polished school information and admissions website that gives students and parents quick access to campus details, academic programs, announcements, and contact resources.",
     stack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Education", "Vercel"],
-    liveUrl: "https://smartgs.vercel.app",
     featured: true,
   },
   {
