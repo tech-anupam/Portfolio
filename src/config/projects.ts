@@ -22,6 +22,7 @@ export const featuredProjects: FeaturedProject[] = [
       "A conversion-focused website for Outback Movers featuring clear moving services, service-area information, trust-building content, and prominent enquiry calls-to-action.",
     stack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Local Business", "SEO"],
     liveUrl: "https://outbackmovers.com",
+    image: "/projects/outback-movers.png",
     featured: true,
   },
   {
@@ -33,6 +34,7 @@ export const featuredProjects: FeaturedProject[] = [
       "A privacy-first file sharing application designed for secure transfers, combining end-to-end encryption, password-protected access, and a fast, accessible sharing workflow.",
     stack: ["Next.js", "React", "TypeScript", "Encryption", "Password Protection", "Vercel"],
     liveUrl: "https://opensharee.vercel.app",
+    image: "/projects/openshare.png",
     featured: true,
   },
   {
@@ -66,6 +68,7 @@ export const featuredProjects: FeaturedProject[] = [
       "A streamlined hook-building tool that simplifies creating, configuring, and organizing hook-based automation through an approachable visual interface.",
     stack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Automation", "Vercel"],
     liveUrl: "https://easyhooks-builder.vercel.app",
+    image: "/projects/easyhooks-builder.png",
     featured: true,
   },
   {
@@ -90,8 +93,8 @@ export const featuredProjects: FeaturedProject[] = [
       "Next-generation developer showcase platform combining AI-assisted project curation, live repository tracking, bespoke terminal interactions, and lightning-fast edge performance. Published as a turnkey digital product on BuiltByBit.",
     stack: ["Next.js", "AI Systems", "TypeScript", "Tailwind CSS", "Developer Tool", "BuiltByBit"],
     liveUrl: "https://incogniq.space",
+    image: "/projects/incogniq-portfolio.png",
     buyUrl: "https://builtbybit.com/resources/incogniq-automated-developer-portfolio.126314/",
-    image: "/projects/incogniq.png",
     featured: true,
   },
   {
